@@ -14,17 +14,28 @@ body {
     border-radius: 0 0 5px 5px;
 }
 
+table{
+border-color: #0033FF; 
+}
 h1 {
     font-family: Georgia, serif;
     border-bottom: 3px solid #0033FF;
     color: #0033FF;
-    f
+    
 }
-button {
-    display: block;
-    height: 100px;
-    width: 300px;
-    background: #34696f;
-    border: 2px solid rgba(33, 68, 72, 0.59);
+h2 {
+    font-family: Georgia, serif;
+    color: #0033FF;
+    
+}
+h3 {
+    font-family: Georgia, serif;
+    color: #0033FF;
+    
+}
+h4{
+    font-family: Georgia, serif;
+    color: #0033FF;
+    
 }
 
